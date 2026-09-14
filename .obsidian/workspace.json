@@ -8,43 +8,117 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f6d168646fa9652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Week 26-08-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 26-08-24"
-            }
-          },
-          {
-            "id": "3625dcc3f82a498e",
+            "id": "93e8e16eaed320dc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "references/microrheology/rezaei_microbubble_acoustic_cavitation_soft_matter-compressed.pdf"
+                "file": "Research proposal ver 3.pdf",
+                "page": 4,
+                "left": -17,
+                "top": 148,
+                "zoom": 0.9019607843137255
               },
               "icon": "lucide-file-text",
-              "title": "rezaei_microbubble_acoustic_cavitation_soft_matter-compressed"
+              "title": "Research proposal ver 3"
             }
           },
           {
-            "id": "55804cb056fbefe8",
+            "id": "4cbde12dd4bf27de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting notes/Meeting notes 26-08-21 (with Prof).md",
+                "file": "notes/Week 26-08-31 (reading).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meeting notes 26-08-21 (with Prof)"
+              "title": "Week 26-08-31 (reading)"
+            }
+          },
+          {
+            "id": "6e3dc868b046b375",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/microrheology/kaushik_adv_tissue_characterisration_transfer_learning.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 701,
+                "zoom": 1.1186868686868687
+              },
+              "icon": "lucide-file-text",
+              "title": "kaushik_adv_tissue_characterisration_transfer_learning"
+            }
+          },
+          {
+            "id": "e31de90f37068fef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/microrheology/adv_modelling/zhao_2025_dynamics_ADV_dual_frequency.pdf",
+                "page": 2,
+                "left": 23,
+                "top": 198,
+                "zoom": 1.3
+              },
+              "icon": "lucide-file-text",
+              "title": "zhao_2025_dynamics_ADV_dual_frequency"
+            }
+          },
+          {
+            "id": "9db42454ea740049",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/microrheology/rezaei_microbubble_acoustic_cavitation_soft_matter.pdf",
+                "page": 9,
+                "left": -13,
+                "top": 404,
+                "zoom": 1.1610533283310853
+              },
+              "icon": "lucide-file-text",
+              "title": "rezaei_microbubble_acoustic_cavitation_soft_matter"
+            }
+          }
+        ]
+      },
+      {
+        "id": "36e7b6bfcaf16736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a279d0b75b7ed8cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting notes/Meeting notes 26-09-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meeting notes 26-09-01"
+            }
+          },
+          {
+            "id": "805ae71e3eaf3a1c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/microrheology/kaushik_adv_tissue_characterisration_transfer_learning.pdf",
+                "page": 3,
+                "left": -16,
+                "top": 479,
+                "zoom": 0.9292929292929293
+              },
+              "icon": "lucide-file-text",
+              "title": "kaushik_adv_tissue_characterisration_transfer_learning"
             }
           }
         ],
@@ -69,7 +143,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -126,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Week 26-08-24.md",
+                "file": "notes/Week 26-09-07 (proposal v1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,22 +286,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3625dcc3f82a498e",
+  "active": "805ae71e3eaf3a1c",
   "lastOpenFiles": [
-    "notes/Week 26-08-24.md",
-    "Meeting notes/Meeting notes 26-08-21 (with Prof).md",
-    "references/microrheology/rezaei_microbubble_acoustic_cavitation_soft_matter-compressed.pdf",
-    "references/microrheology/abeid_ultra-high-speed_dynamics_of_adv_in_soft_biomaterials.pdf",
+    "notes/Week 26-09-07 (proposal v1).md",
+    "Research proposal ver 3.pdf",
     "references/microrheology/rezaei_microbubble_acoustic_cavitation_soft_matter.pdf",
-    "references/New folder",
-    "references/rezaei_microbubble_acoustic_cavitation_soft_matter-compressed.pdf",
-    "references/Unconfirmed 711056.crdownload",
-    "Meeting notes",
-    "references/rezaei_microbubble_acoustic_cavitation_soft_matter.pdf",
-    "notes",
-    "references/adv/aliabouzar_adv.pdf"
+    "references/microrheology/adv_modelling/zhao_2025_dynamics_ADV_dual_frequency.pdf",
+    "notes/Week 26-08-31 (reading).md",
+    "Meeting notes/Meeting notes 26-09-01.md",
+    "references/microrheology/kaushik_adv_tissue_characterisration_transfer_learning.pdf",
+    "Meeting notes/Meeting notes 26-09-04.md",
+    "references/microrheology/adv_modelling/gubaidullin_2024_acoustics_viscoelastic_liquid_droplets.pdf",
+    "references/microrheology/adv_modelling/gubaidullin_2023_modelling_wave_dynamics_ADV.pdf",
+    "references/to read/hilgenfeldt_1998_response_of_bubbles_to_diagnostic_ultrasound.pdf",
+    "APAC111549.pdf",
+    "references/to read",
+    "Meeting notes/Meeting notes 26-09-08.md",
+    "notes/Week 26-09-07 (proofreading).md",
+    "Untitled.md",
+    "references/old references/dynamics/rezaei_modelling.pdf",
+    "Meeting notes/Meeting notes 26-08-21 (with Prof).md",
+    "Untitled 1.md",
+    "Meeting notes/Meeting notes 26-08-27.md"
   ]
 }
