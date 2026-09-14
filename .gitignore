@@ -9,3 +9,6 @@
 # Ignore system files
 .DS_Store
 .trash/
+
+# Ignore macOS metadata
+._*
