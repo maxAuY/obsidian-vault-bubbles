@@ -1,0 +1,1 @@
+Make new branch called "simplified main" and remove unnecessary files.
