@@ -68,4 +68,4 @@ The acoustic emissions of the microbubbles will be measured using B-mode imaging
 # Novelty
 
 - Highlight novelty of the work.
-- First work package is not completely new. Find exact differences between planned work and existing work [complete lit review[.
+- First work package is not completely new. Find exact differences between planned work and existing work [complete lit review].
