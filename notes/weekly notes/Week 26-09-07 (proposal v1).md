@@ -1,6 +1,6 @@
 # Background
 
-### Applications [find more literature for high frequency applications]
+### Applications
 >[!NOTE] Characterising fibrin density
 >- correlated with several pathological processes e.g. fibrosis (scarring of the liver)
 >- thrombus stiffness can be estimated by fibrin density
