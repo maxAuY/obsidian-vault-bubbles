@@ -117,25 +117,25 @@
 > Aliabouzar group used PCD data and transfer learning to measure the fibrin density of their hydrogels. 
 
 - They used features such as mean echo intensity, bubble cloud area measurements, and second-order texture features in the image.
-> ([[kaushik_adv_tissue_characterisration_transfer_learning.pdf#page=3&selection=124,0,126,42&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.3]])
+> ([[kaushik_2025_adv_tissue_characterisration_transfer_learning.pdf#page=3&selection=124,0,126,42&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.3]])
 > Mean echo intensity was quantified, on log-decompressed images, by integrating pixel intensity values within a defined region of interest in each acquired frame.
 
-> ([[kaushik_adv_tissue_characterisration_transfer_learning.pdf#page=3&selection=126,47,129,6&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.3]])
+> ([[kaushik_2025_adv_tissue_characterisration_transfer_learning.pdf#page=3&selection=126,47,129,6&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.3]])
 > area measurements, the threshold gray scale value separating the ADV bubble cloud from fibrin background was determined using Otsu’s method
 
-> ([[kaushik_adv_tissue_characterisration_transfer_learning.pdf#page=4&selection=9,18,13,4&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.4]])
+> ([[kaushik_2025_adv_tissue_characterisration_transfer_learning.pdf#page=4&selection=9,18,13,4&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.4]])
 > In this study, four commonly reported GLCM parameters—contrast, variance, homogeneity, and energy— were calculated to describe various aspects of the texture, including pixel intensity relationships and overall texture uniformity.
 
 - They used transfer learning (a machine learning algorithm designed to process images) on B-mode images and scalograms (unclear how these were generated) to characterise the fibrin concentrations and elastic modulus.
-> ([[kaushik_adv_tissue_characterisration_transfer_learning.pdf#page=4&selection=221,32,224,19&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.4]])
+> ([[kaushik_2025_adv_tissue_characterisration_transfer_learning.pdf#page=4&selection=221,32,224,19&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.4]])
 > First, the input layer was adjusted to accommodate single-channel images (e.g., scalogram, B-mode, or CEUS mode images) by reducing the input channels from three to one. 
 
-> ([[kaushik_adv_tissue_characterisration_transfer_learning.pdf#page=4&selection=228,21,230,49&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.4]])
+> ([[kaushik_2025_adv_tissue_characterisration_transfer_learning.pdf#page=4&selection=228,21,230,49&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.4]])
 > In addition, for BubbleNet2, the softmax layer was removed, allowing the model to perform regression tasks to predict elastic modulus values directly.
 
 - They don't seem to quantify the signals from ADV itself. They are focused on the differences in the microbubbles formed by ADV.
 
-> ([[kaushik_adv_tissue_characterisration_transfer_learning.pdf#page=3&selection=89,14,92,22&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.3]])
+> ([[kaushik_2025_adv_tissue_characterisration_transfer_learning.pdf#page=3&selection=89,14,92,22&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.3]])
 > To isolate and quantify vaporization signals generated from phase-shift droplets, B-mode and CEUS images were first acquired prior to transmitting the ADV pulse to capture the background signal.
 
 

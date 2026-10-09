@@ -6,7 +6,7 @@
 >- thrombus stiffness can be estimated by fibrin density
 >- characterising fibrin density can therefore be used to understand tissue health and monitor disease progression.
 
-> [!PDF|yellow] [[kaushik_adv_tissue_characterisration_transfer_learning.pdf#page=1&selection=176,0,179,38&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.1]]
+> [!PDF|yellow] [[kaushik_2025_adv_tissue_characterisration_transfer_learning.pdf#page=1&selection=176,0,179,38&color=yellow|kaushik_adv_tissue_characterisration_transfer_learning, p.1]]
 > > PATHOLOGICAL processes frequently alter the structural and mechanical properties of soft tissues, serving as key biomarkers for early disease detection
 
 >[!NOTE] Characterising physical properties

@@ -1,0 +1,2 @@
+- Read rezezai thesis. note main points - what has been done, what is outstanding.
+- make a presentation for friday. mention exactly which features I'm looking for.
