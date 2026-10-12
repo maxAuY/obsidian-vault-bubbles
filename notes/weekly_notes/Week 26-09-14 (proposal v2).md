@@ -148,7 +148,7 @@ See [[Week 26-08-31 (reading)]] for notes on Rezaei 2025 thesis and Kaushik 2025
 
 >[!NOTE] Tissues
 >- The heart is highly anisotropic and characterisation has limited accuracy without more complex constitutive models.
-> - Liver tissue is soft and homogenous, making it easier to characterise
+> - Liver tissue is soft and homogenous, making it easier to characterise.
 > - Brain tissues are delicate and heterogeneous. They are difficult to characterise and easily damaged.
 > - Blood clots are viscoelastic and have complex responses.
 
@@ -175,11 +175,11 @@ The acoustic emissions of the microbubbles will be measured using B-mode imaging
 2. Review current imaging and signal processing methods for microrheology using ultrasound contrast agents.
 3. Model microbubbles dynamics with a viscoelastic lipid coating in a viscoelastic medium using existing numerical models.
 4. Identify how spectral features change as a function of material viscoelastic properties.
-5. Model the acoustic emissions from microbubbles under various nonlinear imaging techniques while changing the material elasticity and viscosity [which one? (definity or sonovue?)].
-6. Estimate medium properties based on acoustic emissions from microbubbles (inverse problem).
-7. Develop a signal processing strategy to extract features of interest.
+5. Model the acoustic emissions from microbubbles under various nonlinear imaging techniques while changing the material elasticity and viscosity.
+6. Develop a signal processing strategy to extract features of interest.
+7. Estimate medium properties based on acoustic emissions from microbubbles (inverse problem).
 8. Implement nonlinear imaging techniques on Verasonics machine.
-9. Measure acoustic emissions from commercially available [which one?] microbubbles experimentally.
+9. Measure acoustic emissions from commercially available microbubbles experimentally.
 # Timeline
 
 **Start time - 1st of October 2026**
