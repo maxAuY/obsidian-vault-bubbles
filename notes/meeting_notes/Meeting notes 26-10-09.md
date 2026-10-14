@@ -4,6 +4,8 @@ specify in hypothesis that we are aware of the effects of propagation through th
 
 specify that we're interested in a single bubble
 
+---
+
 what is the application? where is the microbubble?
 
 why do we need high strain rate microrheology in vivo or in vitro
