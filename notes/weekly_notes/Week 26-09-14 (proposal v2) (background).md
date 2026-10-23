@@ -116,7 +116,7 @@
 > [!PDF|yellow] [[jambouridze_2017_rheology_of_hydrogels_microbubble_dynamics.pdf#page=5&selection=39,0,60,2&color=yellow|jambouridze_2017_rheology_of_hydrogels_microbubble_dynamics, p.8]]
 > > Test for linear regime. The bubble dynamics are expected to be linear for sufficiently small forcing amplitude, Dp/p0 { 1, and for a deformation of the viscoelastic medium in the linear regime. A non-linear material response will result in non-linear bubble oscillations, even for forcing amplitudes that would result in linear bubble behaviour in Newtonian fluids, as has been reported for bubbles with a viscolelastic coating. 38 
 
-See [[Week 26-08-31 (reading)]] for notes on Rezaei 2025 thesis and Kaushik 2025 transfer learning.
+See [[Week 26-08-31 (reading) (Rezaei, NDs, UCAs, microrheology)]] for notes on Rezaei 2025 thesis and Kaushik 2025 transfer learning.
 
 >[!NOTE] Inertial cavitation
 >- Several methods monitor inertial cavitation dynamics to perform microrheology.
@@ -129,11 +129,15 @@ See [[Week 26-08-31 (reading)]] for notes on Rezaei 2025 thesis and Kaushik 2025
 
 - Mancia 2021 measures inertial collapse time (time between maximum radius and inertial collapse) and connects it to the Young's modulus of the material.
 - They record bubble radius vs time and run simulations while changing the material parameters $G$, $\alpha$, and $\mu$ and the initial bubble radius $R_0$ to fit the data.
+- They used focused ultrasound to create a single cavitation bubble.
 
 > [!PDF|yellow] [[mancia_2021_acoustic_cavitation_rheometry.pdf#page=4&selection=2,39,36,6&color=yellow|mancia_2021_acoustic_cavitation_rheometry, p.2934]]
 > > For each experimental radius vs. time data set, we perform a series of simulations iterating over a maximum of four uncertain material parameters (G, a, m, R0 ) using one of three assumed models
 > 
 > 
+
+> [!PDF|yellow] [[mancia_2021_acoustic_cavitation_rheometry.pdf#page=2&selection=200,0,205,1&color=yellow|mancia_2021_acoustic_cavitation_rheometry, p.2932]]
+> > The experimental methods for generating single bubbles via high-amplitude ultrasound were described previously. 
 
 - Yang 2024 measured inertial collapse time using hydrophones by calculating the time difference between the shockwaves created at bubble initiation and collapse. 
 - They fit this data to a modified Keller-Miksis model to extract $G$ and $\mu$.
