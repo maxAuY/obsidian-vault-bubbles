@@ -92,12 +92,31 @@
 > - Examples include rubbers, elastomers, polymers, and biological tissue.
 > ---
 > - The constitutive equation is written:
-> $\sigma + \frac{\eta}{E_1 + E_2}\dot\sigma = \frac{E_1E_2}{E_1+E_2}\epsilon + \frac{E_1\eta}{E_1 + E_2}\dot\epsilon$
+> $$
+> \sigma + \frac{\eta}{E_1 + E_2}\dot\sigma = \frac{E_1E_2}{E_1+E_2}\epsilon + \frac{E_1\eta}{E_1 + E_2}\dot\epsilon
+> $$
 > - This is derived ... somehow?
 > $$
-> \sigma = E_1\epsilon_{kv} + \eta\dot\epsilon_{kv} = E_2\epsilon_s \tag{1} $$
+> \sigma = E_2\epsilon_{kv} + \eta\dot\epsilon_{kv} = E_1\epsilon_s \tag{1} $$
 > $$
 > \epsilon = \epsilon_{kv} + \epsilon_s \tag{2}
+> $$
+> $$
+> \epsilon_s = \frac{\sigma}{E_1} \tag{3}
+> $$
+> Substituting Eq. 2 into Eq. 1:
+> $$
+> E_2 (\epsilon - \epsilon_s) + \eta (\dot\epsilon - \dot\epsilon_s) = E_1 \epsilon_s
+> $$
+> $$
+> E_2 \epsilon + \eta\dot\epsilon = (E_1 + E_2) \epsilon_s + \eta\dot\epsilon_s \tag{4}
+> $$
+> Substituting Eq. 3 into Eq. 4:
+> $$
+> E_2 \epsilon + \eta\dot\epsilon = (E_1 + E_2) \frac{\sigma}{E_1} + \eta \frac{\dot\sigma}{E_1}
+> $$
+> $$
+> \frac{E_1E_2}{E_1+E_2}\epsilon + \frac{E_1\eta}{E_1 + E_2}\dot\epsilon = \sigma + \frac{\eta}{E_1 + E_2}\dot\sigma
 > $$
 
 **Diagram of Zener model:**
