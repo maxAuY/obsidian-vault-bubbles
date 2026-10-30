@@ -95,7 +95,7 @@
 > $$
 > \sigma + \frac{\eta}{E_1 + E_2}\dot\sigma = \frac{E_1E_2}{E_1+E_2}\epsilon + \frac{E_1\eta}{E_1 + E_2}\dot\epsilon
 > $$
-> - This is derived ... somehow?
+> - This is derived by equating the strain in the spring and Kelvin-Voigt component:
 > $$
 > \sigma = E_2\epsilon_{kv} + \eta\dot\epsilon_{kv} = E_1\epsilon_s \tag{1} $$
 > $$
