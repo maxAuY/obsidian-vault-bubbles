@@ -27,13 +27,13 @@
 >- Detecting changes in In Vivo properties (characterise resolution and sensitivity). 
 >- Measuring rheology of soft tissues at high strain rates for modelling microbubbles for imaging and therapy.
 
-> [!PDF|yellow] [[rezaei_microbubble_acoustic_cavitation_soft_matter.pdf#page=23&selection=9,0,16,71&color=yellow|rezaei_microbubble_acoustic_cavitation_soft_matter, p.23]]
+> [!PDF|yellow] [[rezaei_2025_microbubble_acoustic_cavitation_soft_matter.pdf#page=23&selection=9,0,16,71&color=yellow|rezaei_microbubble_acoustic_cavitation_soft_matter, p.23]]
 > > Ultrasound contrast agents (UCAs) are widely used in medical imaging to enhance contrast and improve medical diagnosis, e.g. for organ perfusion imaging or to monitor hypervascularization in and around tumors [26], [27]. Additionally, UCAs are intensively investigated for their ultrasound-mediated therapeutic potential. Microbubbles can indeed increase the permeation of endothelial layers, resulting in the local delivery of drugs or genes through pore formation [28], [29].
 
-> [!PDF|yellow] [[rezaei_microbubble_acoustic_cavitation_soft_matter.pdf#page=21&selection=18,44,30,47&color=yellow|rezaei_microbubble_acoustic_cavitation_soft_matter, p.21]]
+> [!PDF|yellow] [[rezaei_2025_microbubble_acoustic_cavitation_soft_matter.pdf#page=21&selection=18,44,30,47&color=yellow|rezaei_microbubble_acoustic_cavitation_soft_matter, p.21]]
 > > While the physical properties of soft tissues are widely available for strain rates in the range of 1 to 10 s−1, they are largely unknown for strain rates of 106 s−1 at which the microbubbles are typically driven.
 
-> [!PDF|yellow] [[rezaei_microbubble_acoustic_cavitation_soft_matter.pdf#page=24&selection=13,75,15,75&color=yellow|rezaei_microbubble_acoustic_cavitation_soft_matter, p.24]]
+> [!PDF|yellow] [[rezaei_2025_microbubble_acoustic_cavitation_soft_matter.pdf#page=24&selection=13,75,15,75&color=yellow|rezaei_microbubble_acoustic_cavitation_soft_matter, p.24]]
 > > One major issue that remains is that the use of any of these models requires a priori knowledge of the viscoelastic properties of tissue, which is generally not the case. 
 ### Techniques
 

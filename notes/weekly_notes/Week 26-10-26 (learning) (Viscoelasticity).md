@@ -31,7 +31,7 @@
 > $$
 > ---
 > - The main advantage of using this model for soft tissues is that it can accurately model power-law creep and attenuation.
-> - Attenuation in biological tissues can be modelled as follows:
+> - Attenuation / absorption in biological tissues can be modelled using a power law:
 > $$
 > a_{k}(\omega) = a_{0}\omega^y
 > $$
@@ -46,6 +46,10 @@
 > $$
 
 [![Schematic representation of the fractional Kelvin-Voigt model. | Download  Scientific Diagram](https://www.researchgate.net/publication/378952982/figure/fig2/AS:11431281229472141@1710454753806/Schematic-representation-of-the-fractional-Kelvin-Voigt-model.png)](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FSchematic-representation-of-the-fractional-Kelvin-Voigt-model_fig2_378952982&ved=0CBcQjRxqFwoTCPCQsOHW2pcDFQAAAAAdAAAAABA4&opi=89978449)
+
+![[zhang_2016_estimation_of_shear_modulus_in_media_with_power_law_characteristics.pdf#page=1&rect=24,189,292,255&color=yellow|zhang_estimation_of_shear_modulus_in_media_with_power_law_characteristics, p.170]]
+> [!PDF|yellow] [[zhang_2016_estimation_of_shear_modulus_in_media_with_power_law_characteristics.pdf#page=3&selection=3,0,3,42&color=yellow|zhang_estimation_of_shear_modulus_in_media_with_power_law_characteristics, p.172]]
+> > 2.2. Analysis of the Caputo wave equation
 
 >[!note] Complex Dynamic Modulus
 > - The complex dynamic modulus, $G$, is written:

@@ -14,7 +14,7 @@
 >- The elasticity, shear modulus, and viscosity can be measured using rheology which has a wide range of industrial and biomedical applications.
 >- Detecting changes in In vivo properties (characterise resolution and sensitivity). 
 
-> [!PDF|yellow] [[rezaei_microbubble_acoustic_cavitation_soft_matter.pdf#page=21&selection=18,44,30,47&color=yellow|rezaei_microbubble_acoustic_cavitation_soft_matter, p.21]]
+> [!PDF|yellow] [[rezaei_2025_microbubble_acoustic_cavitation_soft_matter.pdf#page=21&selection=18,44,30,47&color=yellow|rezaei_microbubble_acoustic_cavitation_soft_matter, p.21]]
 > > While the physical properties of soft tissues are widely available for strain rates in the range of 1 to 10 s−1, they are largely unknown for strain rates of 106 s−1 at which the microbubbles are typically driven.
 
 - [find more applications for high frequency and microrheology]

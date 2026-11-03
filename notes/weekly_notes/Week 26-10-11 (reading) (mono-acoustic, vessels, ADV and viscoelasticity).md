@@ -20,7 +20,7 @@
 > 
 > 
 
-> [!PDF|yellow] [[rezaei_microbubble_acoustic_cavitation_soft_matter.pdf#page=60&selection=20,0,21,54&color=yellow|rezaei_microbubble_acoustic_cavitation_soft_matter, p.60]]
+> [!PDF|yellow] [[rezaei_2025_microbubble_acoustic_cavitation_soft_matter.pdf#page=60&selection=20,0,21,54&color=yellow|rezaei_microbubble_acoustic_cavitation_soft_matter, p.60]]
 > > Experimental techniques have been developed to study the interaction between cavitation bubbles and viscoelastic media [99]–[102]. 
 
 >[!abstract] Microbubble insonation in a vessel
