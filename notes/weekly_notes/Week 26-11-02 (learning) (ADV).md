@@ -7,7 +7,7 @@
 
 > [!note] Nucleation
 > - Nucleation occurs when a vapour bubble inside the nanodroplet with a critical radius is created. This is the minimum radius of the gas bubble that must be created for a phase transition to become self-sustaining. 
-> - This is often modelled to occur during the peak negative pressure of a cycle of ultrasound. 
+> - This is often modelled to occur during the peak negative pressure of an ultrasound cycle. 
 
 ![[zhao_2025_dynamics_ADV_dual_frequency.pdf#page=2&rect=301,61,569,173&color=yellow|zhao_2025_dynamics_ADV_dual_frequency, p.2]]
 -  The liquid is shifted to a metastable state by the negative pressure. This is when nucleation is initiated.
