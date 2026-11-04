@@ -57,7 +57,6 @@
 > [!PDF|yellow] [[zhou_2015_application_of_adv_in_ultrasound_therapy.pdf#page=7&selection=22,0,25,1&color=yellow|zhou_2015_application_of_adv_in_ultrasound_therapy, p.7]]
 > > The behavior of vaporized submicron droplets immediately following vaporization is different to their micronsized counterparts.
 
-
 > [!note] Recondensation
 > - Recondensation of an activated nanodroplet can occur due to increase in pressure.
 > - This can occur during the rarefactional phase or as the Laplace pressure increases when the nanodroplet grows into a microbubble.
