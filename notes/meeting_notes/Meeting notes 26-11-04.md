@@ -9,3 +9,7 @@ find pfc properties
 study nucleation and growth. make notes and a list of questions.
 
 write down equations for nucleation (pen + paper + ai?)
+
+when modelling nucleation and adv, we only need to know:
+1) whether nucleation occurs
+2) the initial radius of the microbubble formed
