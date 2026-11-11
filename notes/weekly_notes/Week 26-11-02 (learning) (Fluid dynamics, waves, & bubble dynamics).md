@@ -19,9 +19,20 @@
 >   $$\frac{\partial m}{\partial t} = \frac{\partial \rho}{\partial t}\,dx\,dy\,dz = - \boldsymbol{\nabla} \cdot (\rho\mathbf{V})\,dx\,dy\,dz$$
 > - Dividing through by the element volume ($dx\,dy\,dz$) yields the differential continuity equation:
 >   $$\frac{\partial \rho}{\partial t} + \boldsymbol{\nabla} \cdot (\rho\mathbf{V}) = 0 \tag{3}$$
+> - For incompressible flow, this equation simplifies to:
+> $$\boldsymbol{\nabla} \cdot \mathbf{V} = 0 \tag{4}$$
 
 > [!note] Conservation of Momentum
 > - Navier-Stokes extends conservation of momentum to a 3d fluid.
+> - For **incompressible** flow, it is written:
+> $$
+> \rho \left( \frac{\partial\mathbf{v}}{\partial t} + (\mathbf{v}\cdot\nabla)\mathbf{v} \right) = -\nabla p + \mu \nabla^2\mathbf{v} + \rho g \tag{1}
+> $$
+> where the LHS is the acceleration (the material derivative of the velocity term) and the RHS is the sum of the forces acting on the fluid element.
+> - The Euler momentum equation can be derived from this for inviscid flow by setting the term $\mu$ to zero:
+> $$
+> \frac{\partial\mathbf{v}}{\partial t} + \mathbf{v}\cdot\nabla\mathbf{v} = -\frac{1}{\rho} \nabla p + g \tag{2}
+> $$
 
 >[!note] Boundary Layers
 > - A boundary layer is a section near a surface where the velocity of a fluid slows down. It can have laminar and turbulent sections.
@@ -31,15 +42,11 @@
 > [!note] The wave equation
 > -
 
-
-
 >[!note] Viscosity
 > -
 
 >[!note] Surface Tension
 > -
-
-
 
 >[!note] Rayleigh Plesset
 > -
